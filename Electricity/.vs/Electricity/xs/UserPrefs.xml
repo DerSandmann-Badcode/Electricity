@@ -7,19 +7,17 @@
       <File FileName="Electricity/Interface/IElectricProducer.cs" Line="1" Column="1" />
       <File FileName="Electricity/Consumer.cs" Line="1" Column="1" />
       <File FileName="Electricity/Electricity.cs" Line="37" Column="67" />
-      <File FileName="Electricity/Utils/Facing.cs" Line="38" Column="69" />
+      <File FileName="Electricity/Utils/Facing.cs" Line="45" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Electricity" expanded="True">
-            <Node name="electricity" expanded="True">
+            <Node name="electricity" expanded="True" selected="True">
               <Node name="Content" expanded="True" />
               <Node name="Interface" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Utils" expanded="True">
-                <Node name="Facing.cs" selected="True" />
-              </Node>
+              <Node name="Utils" expanded="True" />
             </Node>
           </Node>
         </State>
